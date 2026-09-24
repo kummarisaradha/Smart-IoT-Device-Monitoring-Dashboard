@@ -9,7 +9,7 @@ A sleek and responsive smart home monitoring dashboard designed for tracking con
 
 ## Live Demo
 
-https://your-username.github.io/smart-iot-dashboard/
+https://kummarisaradha.github.io/Smart-IoT-Device-Monitoring-Dashboard/
 
 ## Screenshot
 
@@ -73,10 +73,10 @@ iot-dashboard/
 
 ## Author
 
-### Your Name
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Portfolio: [your-website.com](https://your-website.com)
+### K.Saradha
+- GitHub: [@your-username] (https://github.com/kummarisaradha)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kummari-saradha-a586a4383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Portfolio: [https://kummarisaradha.github.io/Smart-IoT-Device-Monitoring-Dashboard/)
 
 ## License
 
